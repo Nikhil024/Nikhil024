@@ -1,5 +1,5 @@
 # 💫 About Me:
-Highly motivated and skilled Technical Solutions Lead with a background in computer science and engineering. Experienced in software solutions architecture, design & development, with a focus on Angular, Spring boot, Java, NodeJS, Docker, Kubernetes, database systems
+Working as a Technical Solutions Lead with a background in computer science and engineering. Hands on in software solutions architecture, design & development, with a focus on Angular, Spring boot, Java, NodeJS, Docker, Kubernetes, database systems
 
 
 ## 🌐 Socials:
