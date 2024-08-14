@@ -1,5 +1,5 @@
 # 💫 About Me:
-Working as a Technical Solutions Lead with a background in computer science and engineering. Hands on in software solutions architecture, design & development, with a focus on Angular, Spring boot, Java, NodeJS, Docker, Kubernetes, database systems
+Working as a Solutions Architect with a background in computer science and engineering. Hands on in technical software solutions architecture, design & development, with a focus on Angular, ReactJS, Spring boot, Java, NodeJS, Docker, Kubernetes, database systems
 
 
 ## 🌐 Socials:
